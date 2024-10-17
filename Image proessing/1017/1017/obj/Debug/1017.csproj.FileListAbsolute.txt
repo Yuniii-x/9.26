@@ -1,0 +1,10 @@
+C:\Users\m306\source\repos\1017\1017\bin\Debug\1017.exe.config
+C:\Users\m306\source\repos\1017\1017\bin\Debug\1017.exe
+C:\Users\m306\source\repos\1017\1017\bin\Debug\1017.pdb
+C:\Users\m306\source\repos\1017\1017\obj\Debug\1017.csproj.AssemblyReference.cache
+C:\Users\m306\source\repos\1017\1017\obj\Debug\_1017.Form1.resources
+C:\Users\m306\source\repos\1017\1017\obj\Debug\_1017.Properties.Resources.resources
+C:\Users\m306\source\repos\1017\1017\obj\Debug\1017.csproj.GenerateResource.cache
+C:\Users\m306\source\repos\1017\1017\obj\Debug\1017.csproj.CoreCompileInputs.cache
+C:\Users\m306\source\repos\1017\1017\obj\Debug\1017.exe
+C:\Users\m306\source\repos\1017\1017\obj\Debug\1017.pdb
